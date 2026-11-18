@@ -89,6 +89,8 @@ def clean_text(text):
     text = text.replace("\u200c", "")
     text = text.replace("\u200d", "")
 
+    text = text.replace("□", "")
+
     # Convert special characters
     text = text.replace(r"\|", "|")
     text = text.replace(r"–", "-")

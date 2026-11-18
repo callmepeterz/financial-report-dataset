@@ -336,7 +336,7 @@
 15859,20.240.328,2023,Công ty Cổ phần Tập đoàn ECI,--,BCTC ,CÔNG TY TNHH KIỂM TOÁN VÀ KẾ TOÁN AAC (AAC),Ý kiến ngoại trừ,,https://data.kreston.vn/vn-report/20240328-972/,train,1
 8226,20.210.330,2020,Công ty Cổ phần Tập đoàn Đầu tư Xây dựng Ricons,Báo cáo tài chính hợp nhất năm 2020 (đã kiểm toán),BCTC hợp nhất,Công ty TNHH Ernst & Young Việt Nam,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/20210330-595/,val,0
 736,227.711,2016,CTCP Sản xuất - XNK Thanh Hà,BAO CAO KIEM TOAN HOP NHAT,BCTC riêng,Công ty TNHH Dịch vụ Kiểm toán và Tư vấn UHY ACA,Ý kiến ngoại trừ,,https://data.kreston.vn/vn-report/227711/,train,1
-906,231.215,2016,CTCP Vận tải xăng dầu Đồng Tháp,DOP_BaoCaoKiemToanNam2016,BCTC riêng,Công ty TNHH Kiểm toán AFC Việt Nam,Ý kiến ngoại trừ,,https://data.kreston.vn/vn-report/231215/,train,1
+5980,403.302,2019,Công ty cổ phần Dược Enlie,Công ty cổ phần Dược Enlie công bố BCTC kiểm toán năm 2019,BCTC riêng,Công ty TNHH Kiểm toán và Tư vấn A&C,Ý kiến ngoại trừ,,https://data.kreston.vn/vn-report/403302/,train,1
 8101,20.210.331,2020,CTCP Quản lý và khai thác Hầm đường Bộ Hải Vân (CTCP Đầu tư Hạ tầng giao thông Đèo Cả),Báo cáo tài chính riêng năm 2020,BCTC Mẹ,Công ty TNHH Dịch vụ Tư vấn Tài chính Kế toán và Kiểm toán Phía Nam,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/20210331-470/,train,0
 6548,418.400,2019,CTCP Đầu tư và Phát triển đô thị Long Giang,BCTC năm 2019 đã kiểm toán - LGL,BCTC riêng,Công ty TNHH Kiểm toán và Tư vấn A&C,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/418400/,val,0
 14718,20.230.221,2022,CTCP Đầu tư và Phát triển Cảng Đình Vũ,BCTC kiểm toán năm 2022,BCTC riêng,Công ty TNHH Hãng Kiểm toán AASC,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/20230221-2104/,train,0
@@ -1597,7 +1597,7 @@
 4457,318.550,2018,CTCP Thủy điện - Điện lực 3,Báo cáo và CBTT Báo cáo tài chính kiểm toán năm 2018,BCTC mẹ,Công ty TNHH Kiểm toán và Kế toán AAC,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/318550/,train,0
 18615,20.250.311,2024,CTCP Gạch Ngói Đồng Nai,--,BCTC ,CÔNG TY TNHH DỊCH VỤ TƯ VẤN TÀI CHÍNH KẾ TOÁN VÀ KIỂM TOÁN PHÍA NAM (AASCS),Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/20250311-1485/,val,0
 7092,329.640,2018,CTCP Sơn Hải Phòng,BC hợp nhất 2018,BCTC hợp nhất,Công ty TNHH Kiểm toán CPA VIETNAM,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/329640/,train,0
-265,247.154,2016,CT CP Tập đoàn Lộc Trời,Báo cáo tài chính riêng kiểm toán năm 2016,BCTC riêng,Công ty TNHH KPMG,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/247154/,train,0
+5965,403.629,2019,CTCP Kim khí TPHCM - VNSTEEL,BCTC năm 2019 đã kiểm toán,BCTC riêng,Công ty TNHH Hãng Kiểm toán AASC,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/403629/,train,0
 2736,271.236,2017,CTCP Xây lắp Thừa Thiên Huế,"Công ty cổ phần Xây lắp Thừa Thiên Huế gửi báo cáo tài chính riêng năm 2017, sua kiểm toán",BCTC riêng,Công ty TNHH PRICEWATERHOUSECOOPERS Việt Nam,Ý kiến chấp nhận toàn phần,,https://data.kreston.vn/vn-report/271236/,test,0
 15204,20.240.330,2023,CTCP Khoáng sản và Luyện kim Việt Nam,Báo cáo tài chính có kiểm toán năm 2023,BCTC riêng,Công ty TNHH Kiểm toán CPA VIETNAM,Ý kiến ngoại trừ,,https://data.kreston.vn/vn-report/20240330-316/,train,1
 10408,20.220.401,2021,CTCP Đầu tư Kiến trúc Xây dựng Toàn Thịnh Phát,Báo cáo tài chính riêng năm 2021,BCTC Mẹ,Công ty TNHH Hãng Kiểm toán AASC,Ý kiến từ chối đưa ra ý kiến,,https://data.kreston.vn/vn-report/20220401-246/,train,1

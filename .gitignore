@@ -121,3 +121,15 @@ Thumbs.db
 
 # npm file
 package-lock.json
+
+# pdf folder
+pdf/
+
+# ocr folder
+ocr-output/
+
+# md folder
+md/
+
+# dataset folder
+dataset/
